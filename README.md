@@ -6,10 +6,10 @@ I'm a digital creator and developer passionate about programing, web development
 - **Brain Blitz**: A quiz game built using Python. Play and test your knowledge.
 - **App Rater**: A review app for users to rate games, apps, and more!
 
-### 👨‍💻 Technologies I Work With:
+### 👨‍💻 Technologies I Currently Work With:
 - Web Development: HTML, CSS, JavaScript
 - Programming: Python, C#
-- Currently Learning: Cybersecurity, C#
+- Currently Learning: Cybersecurity, Bootstrap, Javascript
 
 ### 🌟 Let's Collaborate:
 I'm open to working on programming-related web apps, games, apps and any other exciting projects. Feel free to reach out!
